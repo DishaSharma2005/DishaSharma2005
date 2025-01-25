@@ -8,8 +8,7 @@ My lifelong goal is to pursue excellence, embrace hard work, and live humbly in 
 
 ##What I’m Working On: 
 - 🛠 **Java DSA**: Mastering data structures and algorithms while sharing my journey through weekly updates on LinkedIn.  
-- 🤖 **IoT Projects**: Developing a smart **Temperature & Humidity Sensor Monitor** to measure temperature, humidity, and air quality, with future trend predictions.
- 
+
 ##My Vision: 
 I aspire to become a skilled Java backend developer and dive into competitive programming in the future. My approach is to learn everything sincerely and create impactful projects using the technologies I acquire. I believe in the power of innovation, collaboration, and efficient programming practices to solve real-world problems and build solutions that make life easier for everyone.  
 
