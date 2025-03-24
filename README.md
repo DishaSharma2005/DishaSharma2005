@@ -7,7 +7,7 @@ I'm a passionate developer and lifelong learner who loves transforming ideas int
 My lifelong goal is to pursue excellence, embrace hard work, and live humbly in all I do. 
 
 ##What I’m Working On: 
-- 🛠 **Java DSA**: Mastering data structures and algorithms while sharing my journey through weekly updates on LinkedIn.  
+- 🛠 **Java DSA**: Mastering data structures and algorithms
 
 ##My Vision: 
 I aspire to become a skilled Java backend developer and dive into competitive programming in the future. My approach is to learn everything sincerely and create impactful projects using the technologies I acquire. I believe in the power of innovation, collaboration, and efficient programming practices to solve real-world problems and build solutions that make life easier for everyone.  
