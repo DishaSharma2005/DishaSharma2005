@@ -1,5 +1,8 @@
 
-Hi there! 👋 Welcome to My GitHub Profile  
+Hi there! 👋 Welcome to My GitHub Profile  ![Profile Views](https://komarev.com/ghpvc/?username=DishaSharma2005&label=PROFILE+VIEWS&color=7d3aed&style=for-the-badge&labelColor=5e35b1&animation=fade0)
+
+
+
 I’m Disha Sharma.
 I'm a passionate developer and lifelong learner who loves transforming ideas into impactful projects. Whether it's crafting efficient algorithms, tinkering with IoT devices, or innovating at hackathons, I thrive on pushing boundaries and creating meaningful solutions. 🚀  
 
@@ -26,6 +29,7 @@ I aspire to become a skilled Java backend developer and dive into competitive pr
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=DishaSharma2005&label=PROFILE+VIEWS&color=7d3aed&style=for-the-badge&labelColor=5e35b1&animation=fade
 
 🌱 Let’s build something amazing together!  
 📫 Reach out to me for collaborations, discussions, or hackathons:  
