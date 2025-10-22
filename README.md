@@ -18,6 +18,24 @@ I’m not in a race — just on a journey of learning, building, and sharing.
 
 🌸 Whether it's a good commit or a silly console.log — everything adds up.
 
+---
+## 🌟 Check Out My Portfolio 
+
+<p align="center" style="font-family: 'Segoe UI', sans-serif; color: #333333;">
+  Here's a sneak peek of my portfolio. Click the image to explore my projects and journey! 🚀
+</p>
+
+
+
+<p align="center">
+  <a href="https://disha-portfolio.onrender.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/DishaSharma2005/portfolio/main/src/assets/Screenshot%20portfolio.png" alt="My Portfolio" width="600">
+  </a>
+</p>
+
+
+
+
 ## 🧰 Skills & Technologies
 
 <div align="center">
