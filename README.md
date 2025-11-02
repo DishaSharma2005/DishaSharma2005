@@ -34,6 +34,13 @@ I’m not in a race — just on a journey of learning, building, and sharing.
 </p>
 
 
+## 🏅 Achievements & Badges
+
+### 🛠 Hacktoberfest Supercontributor  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DishaSharma2005/DishaSharma2005/main/assets/Badge.png" alt="Hacktoberfest Supercontributor Badge" width="300" />
+</p>
+
 
 
 ## 🧰 Skills & Technologies
